@@ -22,6 +22,44 @@ Finished and looking good xD
 - [x] User should see all views properly layout when using the app on a phone of different sizes
 - [ ] Correct answer in multiple choice should be random
 
+## Lab 3
+
+### App Description
+`TODO://`Cool App
+
+### App Walk-though
+
+<img src="http://g.recordit.co/iFrklBfsDv.gif" width=200><br>
+
+
+## Required
+- [x] User can browse through multiple flashcards
+- [x] User can re-open the app and see previously created flashcards
+- [x] Push code to GitHub
+## Optional
+- [x] User can delete a flashcard
+- [ ] User can edit existing flashcard
+- [ ] User can store multiple choice questions
+
+## Lab 1
+
+### App Description
+A flashcard app. Click question to show answer!
+
+### App Walk-through
+<img src="http://g.recordit.co/S56z7onA4B.gif" width=200><br>
+
+## Required
+- [x] Create New Project in Xcode
+- [x] Add a view for the front side of the flashcard to display the question
+- [x] Add a view for the back side of the flashcard to display the answer
+- [x] Build in logic to show the answer side when the card is tapped
+- [x] Push code to GitHub
+## Optional
+- [x] Toggle the flashcard between the question side and the answer side
+- [x] Style the question and answer side of the card to better distinguish between the two sides
+- [ ] Add selectable multiple choice answers beneath the card
+
 ## Lab 2
 
 ### App Description
